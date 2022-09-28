@@ -1,0 +1,10 @@
+:root{
+    --firstColor : #C82333;
+}
+
+#addTaskBtn:hover {
+    background-color: var(--firstColor);
+    border: 1px solid var(--firstColor);
+    color: white;
+}
+
